@@ -1,6 +1,9 @@
 # Simple GO Game
-
 Simple GO Game is an implementation of the popular board game Go in C++. This project allows two players to play on boards of different sizes, and supports saving and loading game states.
+
+<div align="center">
+    <img src="./game.png" alt="Game Screenshot" />
+</div>
 
 ## Features
 
